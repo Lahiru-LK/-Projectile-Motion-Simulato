@@ -1,7 +1,12 @@
 # 🚀 Projectile Motion Simulator 💻
 
 A simple yet powerful Python application that simulates projectile motion with customizable parameters like velocity, angle, air resistance, gravity, and more!  Built using Pygame for interactive visuals and real-time updates.
-https://github.com/user-attachments/assets/7bf5557b-995e-4ab8-95d5-98b5e7cbed3b
+
+
+
+https://github.com/user-attachments/assets/c6e4727f-2bfb-435f-9263-7787ca7ad57e
+
+
 
 ## 📖 About the Project
 
